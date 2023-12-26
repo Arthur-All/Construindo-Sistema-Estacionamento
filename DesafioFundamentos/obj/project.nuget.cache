@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5c9lpF5SKrjogpVlPAt11bygrrNN0diRGwR6gF6aIVIYu054WLnKvovQ5p6Espfpu6tmYpZQocaJHAe3sfOGuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arthu\\OneDrive\\Área de Trabalho\\Desafios DIO\\Construindo-Sistema-Estacionamento-CSharp\\DesafioFundamentos\\DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arthu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\arthu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\arthu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\arthu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
